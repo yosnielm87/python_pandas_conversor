@@ -7,3 +7,9 @@ Para ejecutar este proyecto debes ejecutar los sigt en la carpeta del proyecto
 ```
 pip install -r requirements.txt
 ```
+Para ejecutar el proy debes ejecutar lo sgt:
+
+
+```
+python programa_conversor.py
+```
